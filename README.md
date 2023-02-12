@@ -1,7 +1,7 @@
 # Bakery Manger
 
 <img src="https://img.shields.io/badge/Built%20by-Developers-yellowgreen"/>
-###### Michael Howell, Abbey Minett, Natalie Theodoropoulou, Harry Hibbins, Yu-Ling You (Daisy), and Lou Diane Rigodon (Elle).
+Michael Howell, Abbey Minett, Natalie Theodoropoulou, Harry Hibbins, Yu-Ling You (Daisy), and Lou Diane Rigodon (Elle).
 
 ## About the Project
 
@@ -83,3 +83,8 @@ To make sure we knew what areas to focus on we created two new columns in trello
 
 
 ###### *To do today was compiled of those final features we just knew we had to make sure worked*
+
+## The future
+* Improve existing features and user experience
+* Add an inventory management system
+* Link to a payment system
